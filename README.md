@@ -22,8 +22,7 @@ JuegoColor es una aplicación Android simple en la que el usuario debe acertar e
   - `fragment_result.xml`: Layout del ResultFragment.
   - `nav_host_placeholder.xml`: Layout utilizado para la vista previa en el editor
 
-- **app/src/main/res/navigation/**
-  - `nav_graph.xml`: Define la navegación entre los fragmentos.
+
 
 - **app/src/main/res/raw/**
   -correct_sound.mp3
